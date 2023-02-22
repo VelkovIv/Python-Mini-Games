@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
-Game Rock - Paper - Scissors for python console
-Play it on Replit https://replit.com/@IvayloVelkov/Rock-Paper-Scissors?v=1
+Game Rock - Paper - Scissors for python console <br>
+Play it on <a href="https://replit.com/@IvayloVelkov/Rock-Paper-Scissors?v=1">Replit</a>
 
 ![Rock_Paper_Scissors](https://user-images.githubusercontent.com/114020789/212536157-605b1828-2719-4004-8b0e-2c6f1839b2d9.png)
 
