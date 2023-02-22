@@ -1,4 +1,4 @@
-# Rock-Paper_Scissors
+# Rock-Paper-Scissors
 Game Rock - Paper - Scissors for python console
 
 ![Rock_Paper_Scissors](https://user-images.githubusercontent.com/114020789/212536157-605b1828-2719-4004-8b0e-2c6f1839b2d9.png)
