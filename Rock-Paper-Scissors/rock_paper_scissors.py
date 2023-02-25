@@ -15,7 +15,7 @@ while command != 'n':
     elif player_move == 's':
         player_move = scissors
     else:
-        print('Invalid input. Try again ...')  # raise SystemExit('Invalid input. Try again ...')
+        print('Invalid input. Try again ...')
         continue
 
     computer_random_number = random.randint(1, 3)
