@@ -1,6 +1,6 @@
 # Guest-the-Number
 Guest - the - Number. Game for python console <br>
-Play it on <a href="https://replit.com/@IvayloVelkov/Rock-Paper-Scissors?v=1">
+Play it on <a href="https://replit.com/@IvayloVelkov/Python-Mini-Games">
 <img class="#gh-light-mode-only" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png" alt="bootstrap" width="15" height="15"/>
 Replit.com</a>
 
